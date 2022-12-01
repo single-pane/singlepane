@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Github",
+        "link": "https://github.com/vijaypolsani/singlepane",
+        "image": "images/social/github.svg"
+    },
+    {
+        "name": "Twitter",
+        "link": "https://twitter.com/singlepaneofglass",
+        "image": "images/social/twitter.svg"
+    }
+]
