@@ -93,6 +93,6 @@ subtitle = "Intelligent Signal Classification and Decison Management"
 
   # Footer Menu
   [[menu.footer]]
-    name = "COPYRIGHT © 2023 Single Pane Inc. All Rights Reservred."
+    name = "COPYRIGHT © 2023 Single Pane Inc."
   #  url = "/"
     weight = 1
