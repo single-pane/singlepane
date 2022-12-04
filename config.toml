@@ -1,4 +1,3 @@
-#baseURL = "https://vijaypolsani.github.io/singlepane"
 baseURL = "/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
@@ -41,8 +40,8 @@ subtitle = "Intelligent Signal Classification and Decison Management"
     grey = "#5C5A5A"
 
   [params.seo]
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@single-pane"
+    meta_twitter_creator = "@single-pane"
     meta_og_image = "https://www.zerostatic.io/theme/hugo-serif/hugo-serif-screenshot.png"
 
   [params.services]
