@@ -3,9 +3,10 @@ title: 'Single Pane'
 subtitle: 'Decision Signals Simplified'
 meta_title: 'Single Pane of Glass'
 description: "Business and Software Strategy and Solutions."
-intro_image: "images/illustrations/pointing.svg"
-intro_image_absolute: false
+intro_image: "images/illustrations/reading.svg"
+intro_image_absolute: true
 intro_image_hide_on_mobile: false
+
 ---
 
 ## A.I driven signal classification and decison management software
