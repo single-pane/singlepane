@@ -8,4 +8,5 @@ intro_image_hide_on_mobile: false
 
 # Services that grow with your business
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Foundation services that leverage the commonly used data structures and alogrithms and extend thier purpose for running optimized and meaningfull systems
+Products that showcase the services in Finance and Healthcare domains 
