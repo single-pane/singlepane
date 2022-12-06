@@ -6,11 +6,10 @@ featured: true
 weight: 1
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
-
+Data interface definition that act as a single unified integration point of connectivity and data manipulation
 ![Unified Data Driver](/images/javier-allegue-barros-i5Kx0P8A0d4-unsplash.jpg)
 
 # Objectives 
 
-Financial accounting and financial reporting are often used as synonyms.
+Uniform data access and synchonization touchpoint that limits the surface area of connectivity and interaction
 

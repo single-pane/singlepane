@@ -1,6 +1,6 @@
 ---
 title: 'Vijay Polsani'
-date: 2018-12-20T13:44:30+10:00
+date: 2022-12-05T13:44:30+10:00
 draft: false
 image: 'images/team/vijay-polsani.jpg'
 jobtitle: 'Founding Engineer'
