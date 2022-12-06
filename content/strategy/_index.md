@@ -6,6 +6,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Strategy that aligns with your business
+## Strategy that aligns with your business
 
 
