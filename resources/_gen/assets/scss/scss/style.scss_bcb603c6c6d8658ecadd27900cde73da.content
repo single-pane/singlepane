@@ -4193,9 +4193,9 @@ ol {
         flex-direction: row; } }
   .sub-footer .copyright {
     margin-top: 10px;
-    font-size: 14px; }
+    font-size: 10px; }
     .sub-footer .copyright a {
-      font-weight: bold;
+      font-weight: lighter;
       color: inherit; }
   .sub-footer .social a:first-of-type {
     margin-left: -10px; }
@@ -4698,12 +4698,12 @@ ol {
   color: #686868; }
 
 body {
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.2;
   font-family: Source Sans Pro, Helvetica, Arial, sans-serif, -apple-system; }
   @media (min-width: 768px) {
     body {
-      font-size: 16px;
+      font-size: 14px;
       line-height: 1.3; } }
 
 /*# sourceMappingURL=style.css.map */
