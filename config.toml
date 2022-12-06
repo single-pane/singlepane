@@ -3,7 +3,7 @@ themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"
 title = "Single Pane"
-subtitle = "Intelligent Signal Classification and Decison Management"
+subtitle = "A.I driven Signal Classification and Decison Management"
 
 [module]
   [module.hugoVersion]
@@ -21,10 +21,10 @@ subtitle = "Intelligent Signal Classification and Decison Management"
 
   [params.logo]
     mobile = "images/logo/singlepane-mobile.jpg"
-    mobile_height = "20px"
+    mobile_height = "40px"
     desktop = "images/logo/singlepane.jpg"
-    desktop_height = "40px"
-    alt = "Single Pane of Glass - Intelligent signal classification and decison management software."
+    desktop_height = "65px"
+    alt = "Single Pane of Glass - A.I driven signal classification and decison management software."
 
   [params.fonts]
     # sets the google font link in layouts/partials/google-fonts.html
@@ -57,18 +57,18 @@ subtitle = "Intelligent Signal Classification and Decison Management"
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "Products"
-    url = "/products/"
+    name = "Strategy"
+    url = "/strategy/"
     weight = 1
 
   [[menu.main]]
-    name = "Services"
-    url = "/services/"
+    name = "Products"
+    url = "/products/"
     weight = 2
 
   [[menu.main]]
-    name = "Strategy"
-    url = "/strategy/"
+    name = "Solutions"
+    url = "/solutions/"
     weight = 3
 
   [[menu.main]]
@@ -82,14 +82,9 @@ subtitle = "Intelligent Signal Classification and Decison Management"
     weight = 5
 
   [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 6
-
-  [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 7
+    weight = 6
 
   # Footer Menu
   [[menu.footer]]

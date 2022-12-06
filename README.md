@@ -6,8 +6,8 @@
 
 
 1. Single Pane of Data Consumption Management
-2. 	Single Page of Data Secruity Managment
-3. 	Single Pane of Data Fabric and Network Mangement
+2. Single Page of Data Secruity Managment
+3. Single Pane of Data Fabric and Network Mangement
 	
 Purpose:
 A generic website hosting the purpose and solutions that relate to a particular industry. Financial and Health based solutions at a broad level.
